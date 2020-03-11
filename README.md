@@ -3,13 +3,16 @@
 
 Aplicação que se conecta a um banco de dados, junta duas tabelas e entrega um arquivo CSV, tudo empacotado com PKG.
 
+<hr/>
 
-### How to.
+### How to...
 
 - Install dependencies, see pakage.json
 - Config database conections (inside "consultar.js)
 - Customize query
 - Packaging aplication.  Command: pkg .
+
+<hr/>
 
 ### Documentation
 
@@ -26,10 +29,11 @@ Aplicação que se conecta a um banco de dados, junta duas tabelas e entrega um 
 [NPM Obj_to_CSV](https://www.npmjs.com/package/objects-to-csv)
 
 
+
 ![aplication running](./consulta.png)
 
 
-
+<hr/>
 
 [By César J. Fois](https://cesarfois.github.io/)
 
