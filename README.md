@@ -10,15 +10,17 @@ Aplicação que se conecta a um banco de dados, junta duas tabelas e entrega um 
 - Customize query
 - Packaging aplication.  Command: pkg .
 
-### Documentation use 
+### Documentation
+
+#### How to connect using Node + SQL
 
 [W3SCHOOLS NODE+SQL](https://www.w3schools.com/nodejs/nodejs_mysql_select.asp)
 
-### Video, How to use "PKG"
+#### Video, How to use "PKG"
 
 [DEVPLENO Channel](https://www.youtube.com/watch?v=pZNeUcCPwEs&t=218s)
 
-### Convert object to .CSV
+#### Convert object to .CSV
 
 [NPM Obj_to_CSV](https://www.npmjs.com/package/objects-to-csv)
 
