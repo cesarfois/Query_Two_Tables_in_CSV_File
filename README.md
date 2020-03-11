@@ -23,7 +23,7 @@ Aplicação que se conecta a um banco de dados, junta duas tabelas e entrega um 
 [NPM Obj_to_CSV](https://www.npmjs.com/package/objects-to-csv)
 
 
-![aplication running](https://drive.google.com/open?id=1zGWa2-JbzQedDh_nbrN7Ls-7Nzc6BBbH)
+![aplication running](./consulta.png)
 
 
 [By César J. Fois](https://cesarfois.github.io/)
